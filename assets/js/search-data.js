@@ -395,49 +395,49 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-august-28th",
+          title: 'August 28th',
+          description: "Introductions",
           section: "Projects",handler: () => {
               window.location.href = "/Data-Science-meets-Political-Science/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-september-4th",
+          title: 'September 4th',
+          description: "What can Political Science get out of Data Science, and vice versa?",
           section: "Projects",handler: () => {
               window.location.href = "/Data-Science-meets-Political-Science/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-september-11th",
+          title: 'September 11th',
+          description: "What is Data Science from a technical perspective? Cutting through the BS and marketing to what is actually useful in Social Sciences.",
           section: "Projects",handler: () => {
               window.location.href = "/Data-Science-meets-Political-Science/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+            },},{id: "projects-september-25th",
+          title: 'September 25th',
+          description: "Is AI a threat to democracy?",
           section: "Projects",handler: () => {
               window.location.href = "/Data-Science-meets-Political-Science/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
+            },},{id: "projects-october-2nd",
+          title: 'October 2nd',
+          description: "Party Positions",
           section: "Projects",handler: () => {
               window.location.href = "/Data-Science-meets-Political-Science/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
+            },},{id: "projects-october-9th",
+          title: 'October 9th',
+          description: "How to Measure Racism (and other consequential concepts)",
           section: "Projects",handler: () => {
               window.location.href = "/Data-Science-meets-Political-Science/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
+            },},{id: "projects-october-23rd",
+          title: 'October 23rd',
+          description: "Political Microtargetting",
           section: "Projects",handler: () => {
               window.location.href = "/Data-Science-meets-Political-Science/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
+            },},{id: "projects-october-30th",
+          title: 'October 30th',
+          description: "Analyzing Speech",
           section: "Projects",handler: () => {
               window.location.href = "/Data-Science-meets-Political-Science/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
+            },},{id: "projects-november-6th",
+          title: 'November 6th',
+          description: "Reflections and concluding thoughts",
           section: "Projects",handler: () => {
               window.location.href = "/Data-Science-meets-Political-Science/projects/9_project/";
             },},{
