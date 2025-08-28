@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>Data Science meets Political Science (AS.190.360)</p>
     <p>Thursdays 9:00-10:15</p>
-    <p>Room TBA</p>
+    <p>Mergenthaler 366</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
