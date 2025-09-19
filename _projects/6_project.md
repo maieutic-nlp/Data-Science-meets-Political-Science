@@ -8,4 +8,4 @@ category: work
 related_publications: true
 ---
 
-Lilly Mason
+Professor Lilly Mason will present today on Racism. The readings are {% cite brown2025advancing %} and {% cite field2021survey %}
