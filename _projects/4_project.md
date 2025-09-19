@@ -8,4 +8,4 @@ category: work
 related_publications: true
 ---
 
-Adam Sheingate
+Professor Adam Sheingate will join us today to talk about AI and Democracy. Please read {% cite kreps2024potential %} and {% cite kreps2023ai %} before class.
