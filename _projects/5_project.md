@@ -8,4 +8,4 @@ category: work
 related_publications: true
 ---
 
-Philipp Rehm
+Professor Philipp Rehm will present on political parties today. Please read {% cite di2022populist %} and {% cite di2022corrigendum %} to prepare for class.
