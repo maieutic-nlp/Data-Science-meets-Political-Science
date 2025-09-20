@@ -1,6 +1,6 @@
 ---
 layout: page
-title: October 30rd
+title: October 23rd
 description: Analyzing Speech
 img: assets/img/speech.jpg
 importance: 7
