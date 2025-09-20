@@ -430,8 +430,8 @@ ninja.data = [{
           description: "Political Microtargetting",
           section: "Projects",handler: () => {
               window.location.href = "/Data-Science-meets-Political-Science/projects/7_project/";
-            },},{id: "projects-october-30rd",
-          title: 'October 30rd',
+            },},{id: "projects-october-23rd",
+          title: 'October 23rd',
           description: "Analyzing Speech",
           section: "Projects",handler: () => {
               window.location.href = "/Data-Science-meets-Political-Science/projects/8_project/";
